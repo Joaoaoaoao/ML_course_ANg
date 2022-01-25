@@ -1,4 +1,4 @@
 # ML_course_ANg
-Machine Learning course exercises
 
-This is the first time I am using Github and I write this text as an experiment. I am an Oceanographer at heart, but not only.
+The Coursera course on Machine Learning by Andrew Ng is my last attempt at learning advanced ML concepts.
+This repository includes all practical exercises used in the course.
